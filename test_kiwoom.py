@@ -26,7 +26,7 @@ import time
 #token 8109717276:AAFyiB__nN-6BLxhaGr6pTW2TB8o1xwKRKs
 
 #read kcode
-kcod_df = pd.read_csv('c:\lab\kcode.csv',encoding='cp949')
+kcod_df = pd.read_csv('kcode.csv',encoding='cp949')
 
 #reference
 #stackoverflow  https://stackoverflow.com/questions/71205781/combining-asyncio-library-telethon-with-pyqt
